@@ -7,12 +7,12 @@ In this project I implemented a file sharing technique between two or more clien
 DEFINED SERVICES:
 The following services incorporated in Project:
 
->>List all  files in the server,
->>Upload an Image or file to the server,
->>Download an Image or file from the server,
->>User Authentication,
->>Concurrent services to clients,
->>Secured file sharing,
->>Fault Tolerance
-	Prevent overwriting of files
-	Synchronization between servers
+>> List all  files in the server,
+>> Upload an Image or file to the server,
+>> Download an Image or file from the server,
+>> User Authentication,
+>> Concurrent services to clients,
+>> Secured file sharing,
+>> Fault Tolerance
+>> Prevent overwriting of files
+>> Synchronization between servers
